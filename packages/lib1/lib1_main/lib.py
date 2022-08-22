@@ -1,2 +1,2 @@
 def get_lib_name():
-    return 'lib1'
+    return 'lib1 [3]'
