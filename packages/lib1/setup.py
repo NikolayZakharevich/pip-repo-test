@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="lib1",
-    version="0.0.3",
+    version="0.0.4",
     author="Nikolay Zakharevich",
     author_email="nikolayzakharevich@gmail.com",
     description="A function that returns 'lib1'",
